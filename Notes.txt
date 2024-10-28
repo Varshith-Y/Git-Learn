@@ -1,0 +1,4 @@
+git init  ----initiate Git repository
+
+ls -a ----list hidden files in a folder
+
