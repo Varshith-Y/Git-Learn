@@ -18,3 +18,4 @@ for num in reversed_dict.keys():
         break
 print("Crazy Colours")
 return(sorted(result))
+print('relaxing')
