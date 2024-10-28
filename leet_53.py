@@ -16,4 +16,4 @@ for num in reversed_dict.keys():
         result.append(num)
     else:
         break
-print(sorted(result))
+return(sorted(result))
